@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Lili7iana/Lili7iana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Welcome to my GitHub profile!
+- 🤗 I'm Liantsoa and I'm excited to welcome you here and share my projects with you.
+- 🤭 I'm passionate about technology and not a developer myself 🤫
+- 🧐 I enjoy exploring new technologies and finding innovative solutions to complex problems.
+- 🤓 On this profile, you'll find a variety of projects that showcase my passion and skills.
+- 👀 Feel free to browse through my projects.
+- 🤙 I'm always open to collaborations and new opportunities, so don't hesitate to contact me at tiana.liantsoa@gmail.com.
+- 🙏 Thank you for visiting my profile. I hope you'll enjoy my projects as much as I enjoyed creating them.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
