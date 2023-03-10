@@ -2,7 +2,7 @@
 
 - 👋 Welcome to my GitHub profile!
 - 🤗 I'm Liantsoa and I'm excited to welcome you here and share my projects with you.
-- 🤭 I'm passionate about technology but not a developer, sorry
+- 🤭 I'm passionate about technology but I am not a developer, sorry
 - 🧐 I enjoy exploring new technologies and finding innovative solutions to complex problems.
 - 🤓 On this profile, you'll find a variety of projects that showcase my passion and skills.
 - 👀 Feel free to browse through my projects.
